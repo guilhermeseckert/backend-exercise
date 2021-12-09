@@ -5,15 +5,7 @@
 <h1 align="center"><strong>Backend / Server - Node.js with Typescript</strong></h1>
 <br/>
 
-## 🛠 Technology
 
-The following tools were used in the construction of the project:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 <br>
 <h2><strong>Improviments to be made in the application</strong></h2>
@@ -44,7 +36,17 @@ $ yarn install
 
 <br>
 
-<p>* Execute the following command exhibit on the Database section below for the migration </p>
+<h2>💾 <strong>Database</strong></h2>
+<br>
+<h3>Typeorm: <h3>
+
+For your confort, the database chosed was sqlite.
+
+<p>Run the the migration:</p>
+
+```javascript
+$ yarn typeorm migration:run
+```
 
 <br>
 
@@ -72,23 +74,6 @@ $ npm run start
 $ yarn start
 ```
 
-<hr>
-<br>
-
-<h2>💾 <strong>Database</strong></h2>
-<br>
-<h3>Typeorm: <h3>
-
-For your confort, the database chosed was sqlite.
-
-<p>Run the the migration:</p>
-
-```javascript
-$ yarn typeorm migration:run
-```
-
-<hr>
-<br>
 
 <h2>☞ <strong>Insomnia Users</strong></h2>
 
