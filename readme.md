@@ -5,14 +5,15 @@
 <h1 align="center"><strong>Backend / Server - Node.js with Typescript</strong></h1>
 <br/>
 
-<h2><strong>Some of the tools used in the development: </strong></h2>
-<br>
+## 🛠 Technology
+
+The following tools were used in the construction of the project:
+
+- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Typeorm](https://typeorm.io/#/)
-- [Jest](https://jestjs.io/)
-- [Sqlite](https://www.sqlite.org/index.html)
-- [Celebrate](https://www.npmjs.com/package/celebrate)
 
 <br>
 <h2><strong>Improviments to be made in the application</strong></h2>
