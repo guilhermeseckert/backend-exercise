@@ -36,8 +36,7 @@ $ yarn install
 
 <br>
 
-<h2>💾 <strong>Database</strong></h2>
-<br>
+💾 <strong>Database</strong>
 <h3>Typeorm: <h3>
 
 For your confort, the database chosed was sqlite.
